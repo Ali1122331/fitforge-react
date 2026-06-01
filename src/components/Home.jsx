@@ -30,7 +30,7 @@ function Home({ setPage }) {
         </div>
       </section>
 
-      {/* FITFORGE TICKER */}
+      {/*  TICKER */}
       <div className="ticker">
         <div className="ticker-track">
           <span>🔥 Train Smarter with FitForge ✦</span>
