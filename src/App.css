@@ -814,12 +814,12 @@ textarea {
 }
 
 .score-circle small {
-  color: white;
+  color:var(--green);
   font-size: 16px;
 }
 
 .score-card h3 {
-  color: var(--green);
+  color: white;
   margin-bottom: 10px;
 }
 
