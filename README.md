@@ -1,16 +1,68 @@
-# React + Vite
+FitForge React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project Description
 
-Currently, two official plugins are available:
+FitForge is a fitness web application built using ReactJS. It helps users explore workout programs, learn nutrition tips, track progress, and contact the fitness team. The website is designed with a modern fitness-themed interface and is fully responsive for desktop and mobile devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Features
 
-## React Compiler
+* Home page with fitness motivation and navigation
+* Workout programs with images and video tutorials
+* Nutrition guidance section
+* Progress tracking page
+* Contact page
+* Responsive design for different screen sizes
+* Modern UI using ReactJS and CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Technologies Used
 
-## Expanding the ESLint configuration
+* ReactJS
+* Vite
+* JavaScript
+* HTML5
+* CSS3
+* Git
+* GitHub
+* GitHub Pages
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Setup Instructions
+
+1. Clone the repository:
+
+git clone https://github.com/Ali1122331/fitforge-react.git
+
+2. Navigate to the project folder:
+
+cd fitforge-react
+
+3. Install dependencies:
+
+npm install
+
+4. Start the development server:
+
+npm run dev
+
+5. Open the local server URL shown in the terminal.
+
+Live Website
+
+https://ali1122331.github.io/fitforge-react/
+
+Repository Link
+
+https://github.com/Ali1122331/fitforge-react
+
+Screenshots
+
+Add screenshots of:
+
+* Home Page
+* Workouts Page
+* Nutrition Page
+* Progress Page
+* Contact Page
+
+Author
+
+Ali Hourani
